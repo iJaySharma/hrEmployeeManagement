@@ -2,10 +2,8 @@
 <b>Application Overview </b> 
 <ul> 
  <li>This product is basically manages onboarding of the employees and tag them with thier respective roles/designations.</li> 
-<li> It allows management of designations across the firm. </li>  
-<li> Apart from this we can manage employees based on thier performance and tag suitable role accordingly. </li>
-<li> Application covers the authorozation and authentication part as well at the time of login, only admin will have the authority to update/add/edit as per the needs. </li>
-<li> while onboarding or later if admin wants to update any of the information they can make use of update module. </li>
+<li> It allows management of designations across the firm for Human Resource peoples one can authenticate oneself product have login and logout facilities for secured connection  </li>  
+<li> Apart from this one can manage employees by changing and manipulating the information contained in his/her webapplicaion (this are the CRUD operationns HR make Create|Read|Update|Delete)  </li>
 </ul>
 <b> Application startup process </b><br></br>
 <ul>
